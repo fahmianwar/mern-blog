@@ -1,4 +1,4 @@
-import Input from './input';
+import Input from './Input';
 import Button from './Button';
 import Gap from './Gap';
 import Link from './Link';
